@@ -3,6 +3,7 @@ README.md
 data
 	accepted_2007_to_2018Q4.csv
 	rejected_2007_to_2018Q4.csv
+	urL: https://www.kaggle.com/datasets/wordsforthewise/lending-club
 		Both of the following were cleaned and combined.
 notebooks
 	Final Capstone Project.ipynb
